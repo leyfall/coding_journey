@@ -18,5 +18,9 @@ Reading the "Udacity’s blog post on front-end, back-end and full stack develop
 
 Day 3 (12.20.25): (Late study and doing things)
 Stuffs to learn how to manage time and productivity in focus + the what to do  in breaks.
+
 Avoid AI for asking a question -- used the Odin Community + Google
+
+Day 4 (12.21.25)
+Putting a new project to learn such as the new single page cv something.
 
