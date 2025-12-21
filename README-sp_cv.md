@@ -13,3 +13,4 @@ I merely see the stuffs in code and taking notes for more
 
 Future:
 Putting aside will be changes this things here if I got time to do so. (or not being lazy again)
+https://roadmap.sh/projects/single-page-cv/solutions?u=67b025410a4602069b0f28b7
