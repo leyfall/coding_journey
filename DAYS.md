@@ -28,3 +28,5 @@ Asking a question in TOP discord:
 
        So, to summarize, don't ask "Any Java experts around?", but rather ask "How do I do [problem] with Java and [other relevant info]?"
 
+Adding the "projects" branches so i can see it in different branch and not in the main one.
+
