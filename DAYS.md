@@ -34,3 +34,6 @@ Day 5 (12.22.25)
 Taking notes and learning in my Kindle V about Fundamentals stuffs in Github.
 1st Class Language you need to know:
          - Ruby, Javascript (unfortunately still don't know about this languages)
+         - Json and jq
+
+
