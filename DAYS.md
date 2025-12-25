@@ -66,3 +66,15 @@ Learning CTCI for leetcode problem--- will continue after i goo and yeah its chr
 
 Reading the html for begineer the easy way and stuffs.
 
+Day 8 (12.25.25):
+
+On odin right now tackle this ff:
+
+- How Does the Web Work?
+- 
+-
+
+
+
+       Merry Christmas!
+
