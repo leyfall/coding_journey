@@ -77,4 +77,8 @@ On odin right now tackle this ff:
 
 Day 9 (12.26.25):
 
+Just continuing the unix shell course and:
+ - Working With Files and Directories
+ - 
+
 
