@@ -83,4 +83,7 @@ Just continuing the unix shell course and:
    
 Just reading and do challenges for a bit in the mental state. 
 
+Day 10 (12.27.25): Late study a lot happened and being **lazy**
+
+
 
