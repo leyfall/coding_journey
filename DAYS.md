@@ -98,6 +98,8 @@ Day 12 (12.29.25): Early a bit but could lapse 50mins for this (hopefully)
 
 - (done) Read chapters 1.1 through 1.4 from the Getting Started section of Pro Git to learn the differences between local, centralized, and distributed version control systems.
 - (done) Watch “What is Git?” explained in 2 minutes - a video about what Git is and how it can improve the workflow of both an individual and a team of developers.
-- 
+- (done) Read “About GitHub and Git” for a brief introduction of what GitHub is and how Git and GitHub work together. You can skip the “Where do I start?” section at the end.
+- (done) If you haven’t yet installed Git, visit the Setting Up Git lesson.
+- (done) Take a look at The Odin Project’s GitHub repository. This is where all the lessons are stored! While you’re there, look at all our contributors to gain an appreciation for how Git records all collaborative efforts and how GitHub visually represents this.
 
 
