@@ -102,5 +102,7 @@ Day 12 (12.29.25): Early a bit but could lapse 50mins for this (hopefully)
 - (done) If you haven’t yet installed Git, visit the Setting Up Git lesson.
 - (done) Take a look at The Odin Project’s GitHub repository. This is where all the lessons are stored! While you’re there, look at all our contributors to gain an appreciation for how Git records all collaborative efforts and how GitHub visually represents this.
 - Putting git to test.
+- done hopefully the test after i commit this.
+
 
 
