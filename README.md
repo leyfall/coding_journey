@@ -1,4 +1,5 @@
 Putting all stuffs here that I learn in Odin and also Roadmap sh projects so i can see the journey.
+Also putting the code projects I will make soon.
 
 update:
 
