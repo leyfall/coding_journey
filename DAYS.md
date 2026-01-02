@@ -127,3 +127,4 @@ Day 16 (01.02.26):
 
 - Reading CCI for 10mins
 - I'm dying idk what to do with the Leetcode stuff but i have to, I keep reading the two sum or something and then boom. I'm confuse
+- Decided to take course of C++ since I want to acknowledge how dumb I am.
