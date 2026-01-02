@@ -1,5 +1,7 @@
-**Coding Project***
+**Coding Projects**
+
 _Coding journey and history._
+
 Putting all of the stuffs I'll learn for everyday.
 
 studying everyday till i learn all the foundamental.
