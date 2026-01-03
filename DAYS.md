@@ -132,3 +132,7 @@ Day 16 (01.02.26):
 - I'm dying idk what to do with the Leetcode stuff but i have to, I keep reading the two sum or something and then boom. I'm confuse
 - Decided to take course of C++ and Python since I want to acknowledge ~~how dumb I am.~~ how trash of not learning it.
 - Fixing the mindset of being dumb. My learning is dumb not me.
+
+Day 17 - 01.03.26
+
+- Reading and applying project ideas.
