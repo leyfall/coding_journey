@@ -136,3 +136,7 @@ Day 16 - 01.02.26
 Day 17 - 01.03.26
 
 - Reading and applying project ideas.
+
+Day 18 - 01.04.26
+
+- Reading CCI for 10mins
