@@ -152,3 +152,4 @@ Day 20 - 01.06.26
 Day 21 - 01.07.26
 
 - I did not do anything but, I read some technical books related to scripts and JavaScript also fundamental.
+- Reading the commits of my past projects.
