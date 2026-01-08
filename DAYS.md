@@ -155,3 +155,7 @@ Day 21 - 01.07.26
 - Reading the commits of my past projects.
 - Still streak in LeetCode since well- stupidly enought to do the thing but yeah.
 - No class- but more on reading and write my book.
+
+Day 22 - 01.08.26
+
+- still no progress. I humbly been lazy.
