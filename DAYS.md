@@ -163,3 +163,7 @@ Day 22 - 01.08.26
 Day 23 - 01.09.26
 
 - none code related: But got done work study today.
+
+Day 24 - 01.10.26
+
+- 
