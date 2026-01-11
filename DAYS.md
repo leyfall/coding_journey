@@ -167,3 +167,8 @@ Day 23 - 01.09.26
 Day 24 - 01.10.26
 
 - initiating a new C++ project
+
+Day 25 - 01.11.26
+
+- continue the circuit project where I
+         - a system where a green light stays on until a "sensor" (a button) is pressed by a pedestrian, then it triggers the yellow-to-red sequence.
