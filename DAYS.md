@@ -172,6 +172,7 @@ Day 25 - 01.11.26
 
 - continue the circuit project where I
          - a system where a green light stays on until a "sensor" (a button) is pressed by a pedestrian, then it triggers the yellow-to-red sequence.
-Day 26 - 01.12.26
+  
+Day 26 - 01.12.26 - I'm terribly sorry for you my dear ("Future") if i was a bit late, but its better to be nothing.
 
 - On introduction of c++
