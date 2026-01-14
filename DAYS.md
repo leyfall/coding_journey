@@ -181,4 +181,5 @@ Day 27 and 28 - to be continued
 
 01.13.26 - 01.14.26
 
-- 
+- ON VERGE OF DYING TO LAZY idunno what to do anymore can i still  keepp going even tho its been crushed upon?
+- ive been neglecting anything. like im not idk.
