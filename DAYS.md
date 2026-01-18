@@ -195,3 +195,7 @@ Day 27 and 28 - to be continued
 01.17.26
 
 - Writing codes in leetcode.
+
+01.18.26
+
+- no progress.
