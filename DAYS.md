@@ -178,17 +178,16 @@ Day 26 - 01.12.26 - I'm terribly sorry for you my dear ("Future") if i was a bit
 - On introduction of c++
 
 Day 27 and 28 - to be continued
-
 01.13.26 - 01.14.26
 
 - ON VERGE OF DYING TO LAZY idunno what to do anymore can i still  keepp going even tho its been crushed upon?
 - ive been neglecting anything. like im not idk.
 
-01.15.26
+Day 29 - 01.15.26
 
 - a lot happend but not one of them is code.
 
-01.16.26
+Day 01.16.26
 
 - I thought i did my coding but i guess its in my dreams pala.
 
