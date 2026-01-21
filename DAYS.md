@@ -202,4 +202,16 @@ Day 27 and 28 - to be continued
 
 01.19.26
 
--
+- Reading on Kinnu for Backend Development
+
+01.20.26
+
+- no adjustment for the Andruino R3
+
+01.21.26
+
+- no time or more like deadzone for this... proceed to phone Kinnu app
+
+01.22.26
+
+- in loop for the Kinnu Backend Developement.
