@@ -191,26 +191,26 @@ Day 30 01.16.26
 
 - I thought i did my coding but i guess its in my dreams pala.
 
-Day 01.17.26
+Day 31 - 01.17.26
 
 - Writing codes in leetcode.
 
-Day 01.18.26
+Day 32 - 01.18.26
 
 - no progress.
 
-Day 01.19.26
+Day 33 - 01.19.26
 
 - Reading on Kinnu for Backend Development
 
-Day 01.20.26
+Day 34 - 01.20.26
 
 - no adjustment for the Andruino R3
 
-Day 01.21.26
+Day 35 - 01.21.26
 
 - no time or more like deadzone for this... proceed to phone Kinnu app
 
-Day 01.22.26
+Day 36 - 01.22.26
 
 - in loop for the Kinnu Backend Developement.
