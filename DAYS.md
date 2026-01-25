@@ -223,3 +223,7 @@ Day 37 - 01.23.26
 Day 38 - 01.24.26
 
 - wake up not so bad, reading the kinnu test.
+
+Day 39 - 01.25.26
+
+-starting to pave way what i want.
