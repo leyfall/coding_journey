@@ -226,4 +226,5 @@ Day 38 - 01.24.26
 
 Day 39 - 01.25.26
 
--starting to pave way what i want.
+- starting to pave way what i want.
+- 今日は一日中何もせずにだらだら過ごしました。
