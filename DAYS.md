@@ -241,3 +241,4 @@ Day 42 - 01.28.26
 
 - Library practice code, reading initial commit.
 - Dying, I'm lost
+- I forgot, cant focus anymore knowing that im in the library help!!!!!!!
