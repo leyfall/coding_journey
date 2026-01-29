@@ -249,3 +249,4 @@ Day 43 - 01.29.26
 
 - Still the same being not doing anything not so productive for the coding world.
 - Appraised behold the fig of my own that will surely rot
+-  bug is any kind of programming error that prevents the program from operating correctly.
