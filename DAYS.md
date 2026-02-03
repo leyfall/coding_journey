@@ -370,3 +370,8 @@ isinstance(True, bool) # True
 isinstance(42, int) # True
 isinstance('John Doe', int) # False
 
+Day 47 - 02.02.26
+
+- 今日は一日中何もせずにだらだら過ごしました。
+
+
