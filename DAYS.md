@@ -382,5 +382,9 @@ Day 49 - 02.04.26
 
 - 今日は一日中何もせずにだらだら過ごしました。
 
+Day 50 - 02.05.26
+
+- loving the life of coding. Still studying python.
+
 
 
