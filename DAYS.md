@@ -388,5 +388,8 @@ Day 50 - 02.05.26
 
 Day 51 - 02.06.26
 
+- still no progress isnt it?
+
+
 
 
