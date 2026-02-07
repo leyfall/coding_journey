@@ -390,6 +390,11 @@ Day 51 - 02.06.26
 
 - still no progress isnt it?
 
+Day 52 - 02.07.26
+
+- In freecodecamp right now for the python class.
+- 
+
 
 
 
