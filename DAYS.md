@@ -398,6 +398,7 @@ Day 52 - 02.07.26
 Day 53 - 02.08.26
 
 - Done installing the Vim now finally its my new dead (me dead) editor.
+- Free from VScode now yey!!!
 
 
 
