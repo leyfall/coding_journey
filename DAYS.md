@@ -395,6 +395,8 @@ Day 52 - 02.07.26
 - In freecodecamp right now for the python class.
 - Understanding the integer,float and boolean = DONE
 
+Day 53 - 02.08.26
+
 
 
 
