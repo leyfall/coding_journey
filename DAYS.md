@@ -399,6 +399,7 @@ Day 53 - 02.08.26
 
 - Done installing the Vim now finally its my new dead (me dead) editor.
 - Free from VScode now yey!!!
+- A string is a sequence of characters surrounded by either single or double quotation marks.
 
 
 
