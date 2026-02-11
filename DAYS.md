@@ -416,6 +416,7 @@ Day 56 - 02.11.26
 - I wanna stop????
 - Lol of course I wont.
 - Officially done with the intro of string theory (I'm also done, I dont know whats that)
+- Number augmented, mathematical operations both float and integer.
 - 
 
 
