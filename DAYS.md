@@ -417,7 +417,9 @@ Day 56 - 02.11.26
 - Lol of course I wont.
 - Officially done with the intro of string theory (I'm also done, I dont know whats that)
 - Number augmented, mathematical operations both float and integer.
-- 
+- <img width="1083" height="485" alt="image" src="https://github.com/user-attachments/assets/7bce57fb-f7bf-4a98-bb6b-c837ad426b3a" />
+       this is the operations, used in Boolean
+
 
 
 
