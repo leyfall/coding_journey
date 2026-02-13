@@ -423,7 +423,11 @@ Day 56 - 02.11.26
 
 Day 57 - 02.12.26
 
--
+- Boolean and Conditionals
+
+Day 58 - 02.13.26
+
+- So eh well yeah
 
 
 
