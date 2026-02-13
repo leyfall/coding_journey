@@ -428,6 +428,7 @@ Day 57 - 02.12.26
 Day 58 - 02.13.26
 
 - So eh well yeah
+- first class yarn>
 
 
 
