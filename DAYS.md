@@ -430,6 +430,10 @@ Day 58 - 02.13.26
 - So eh well yeah
 - first class yarn>
 
+Day 59 - 02.14.26
+
+- 14th valentines day? more like code day
+
 
 
 
