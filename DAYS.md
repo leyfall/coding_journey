@@ -445,5 +445,6 @@ Day 61 - 02.16.26
 - Im so confused but inlove
 - lmao ambot nalang jud oi
 - Python gooo
+- mao na
 
 
