@@ -449,26 +449,8 @@ Day 61 - 02.16.26
 
 Day 62 - 02.17.26
 
--Skip to content
-Profile
-
-    Python Certification
-    Booleans and Conditionals
-
-What Are Truthy and Falsy Values, and How Do Boolean Operators and Short-Circuiting Work?
-
-In the previous lesson, you learned how to use comparison operators and conditional statements to control the flow of your programs.
-
-While those are very powerful, you will often run into situations where you need to compare multiple values at once. This can lead to nested conditional statements, for example:
-
-is_citizen = True
-age = 25
-
-if is_citizen:
-    if age >= 18:
-        print('You are eligible to vote') # You are eligible to vote
-else:
-    print('You are not eligible to vote')
+- Skip to content
+- What Are Truthy and Falsy Values, and How Do Boolean Operators and Short-Circuiting Work?
 
 The above example will first check if is_citizen is True. If so, it will then go to the nested if statement and check if age is greater than or equal to 18. Since age is greater than or equal to 18, the message printed to the terminal will be You are eligible to vote. If is_citizen were False, then the message printed to the terminal would have been You are not eligible to vote.
 
