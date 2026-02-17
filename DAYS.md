@@ -560,27 +560,5 @@ What will the following code output?
 age = 20
 has_ticket = True
 
-if age >= 18 and has_ticket:
-    print("You can watch the movie.")
-else:
-    print("You can't watch the movie.")
-
-You can watch the movie.
-SyntaxError
-TypeError
-You can't watch the movie.
-
-Which of the following is NOT considered a falsy value in Python?
-""
-0.0
-"False"
-0
-
-What happens when Python evaluates the expression x or y?
-It returns x only if both x and y evaluate to True
-It returns x if it evaluates to True, and skips evaluating y
-It always evaluates both x and y regardless of their values
-It returns False if either x or y is False
-
 
 
