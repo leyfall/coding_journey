@@ -582,7 +582,7 @@ Day 64 - 02.19.26
 
 Day 65 - 02.20.26
 
-- 
+- done things, but still confused.
 
 
 
