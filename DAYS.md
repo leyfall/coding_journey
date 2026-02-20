@@ -576,6 +576,13 @@ AI literacy is the combination of knowledge, skills, and attitudes that enables 
 
 - Reading the Ai Literacy Gap
 
+Day 64 - 02.19.26
+
+- NOOOOO, technically nothing.
+
+Day 65 - 02.20.26
+
+- 
 
 
 
