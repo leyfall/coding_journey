@@ -584,5 +584,9 @@ Day 65 - 02.20.26
 
 - done things, but still confused.
 
+Day 66 - 02.21.26
+
+- rest
+
 
 
