@@ -592,6 +592,9 @@ Day 67 - 02.22.26
 
 - rest
 
+Day 68 - 02.23.26
+
+- In exercism trying to actually solve the lasagna. 
 
 
 
