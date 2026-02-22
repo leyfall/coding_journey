@@ -594,7 +594,8 @@ Day 67 - 02.22.26
 
 Day 68 - 02.23.26
 
-- In exercism trying to actually solve the lasagna. 
+- In exercism trying to actually solve the lasagna.
+- Getting familliar with the PEP 8 – Style Guide for Python Code
 
 
 
