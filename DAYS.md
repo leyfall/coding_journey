@@ -597,6 +597,10 @@ Day 68 - 02.23.26
 - In exercism trying to actually solve the lasagna.
 - Getting familliar with the PEP 8 – Style Guide for Python Code
 
+Day 69 - 02.24.26
+
+- No activity today, due to rapid exhaustion lol, very busy.
+
 
 
 
