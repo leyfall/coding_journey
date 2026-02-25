@@ -601,6 +601,10 @@ Day 69 - 02.24.26
 
 - No activity today, due to rapid exhaustion lol, very busy.
 
+Day 70 - 02.25.26
+
+- Resulting to the activity for me.
+
 
 
 
