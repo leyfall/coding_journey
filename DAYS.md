@@ -612,6 +612,9 @@ Day 74 - 03.01.26
 
 Those 4 days of neglience or more like every solitude times, been busy on this prom thing that even don't like very important and it keeps me do things. I've been neglient over my hobby that will surely help me for my future. I should start again and again from the beginning.
 
+Day 75 - 01 - 03.02.26
+
+
 
 
 
