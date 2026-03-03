@@ -616,8 +616,11 @@ Day 75 - 01 - 03.02.26
 
 - Continuing the python session in the freecodecamp. Where I tackle the theory and the lessons.
 
-
 Day 76 - 02 - 03.03.26
+
+- No wifi sadly yesterday but I did, read the Python Crash Course 3
+- Learn to navigate more both the nvim and the ubuntu terminal for the coding sessions.
+
 Day 77 - 03 - 03.04.26
 
 
