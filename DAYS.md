@@ -624,6 +624,7 @@ Day 76 - 02 - 03.03.26
 Day 77 - 03 - 03.04.26
 
 - build employee generator step 5 to 10
+- see youuuu(its seniors ball today lol)
 
 
 
