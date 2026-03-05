@@ -630,7 +630,7 @@ Day 78 - 04 - 03.05.26
 
 - Hello, today will continue.
 - done build employee generator from step 11-18
-- 
+- starting build a bill splitter
 
 
 
