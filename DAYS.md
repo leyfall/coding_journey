@@ -635,6 +635,7 @@ Day 78 - 04 - 03.05.26
 Day 79 - 05 - 03.06.26
 
 - Namatay, finally na survive ang STEP 4 jusko
+- Done step 4 to 8 in bill splitter lezgooo python
 
 
 
