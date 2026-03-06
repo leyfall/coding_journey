@@ -637,6 +637,10 @@ Day 79 - 05 - 03.06.26
 - Namatay, finally na survive ang STEP 4 jusko
 - Done step 4 to 8 in bill splitter lezgooo python
 
+Day 80 - 06 - 03.07.36
+
+- for today welp here: In this workshop, you will practice how to use booleans and conditional statements in Python by building a movie ticket booking calculator.
+
 
 
 
