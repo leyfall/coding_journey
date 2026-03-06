@@ -634,7 +634,7 @@ Day 78 - 04 - 03.05.26
 
 Day 79 - 05 - 03.06.26
 
-- Namatay
+- Namatay, finally na survive ang STEP 4 jusko
 
 
 
