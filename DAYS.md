@@ -632,6 +632,10 @@ Day 78 - 04 - 03.05.26
 - done build employee generator from step 11-18
 - starting build a bill splitter
 
+Day 79 - 05 - 03.06.26
+
+- Namatay
+
 
 
 
