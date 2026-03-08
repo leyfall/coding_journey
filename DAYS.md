@@ -641,6 +641,8 @@ Day 80 - 06 - 03.07.36
 
 - for today welp here: In this workshop, you will practice how to use booleans and conditional statements in Python by building a movie ticket booking calculator.
 
+Day 81 - 07 - 03.08.26
+
 
 
 
