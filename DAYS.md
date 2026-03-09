@@ -647,6 +647,10 @@ Day 81 - 07 - 03.08.26
 - if statement can also be placed inside the body of another if statement. This is called a nested if statement.
 - continuing the steps in the movie---rest cause its making me felt mad
 
+Day 82 - 08 - 03.09.26
+
+- gday lad! done doing the build a movie ticket booking calculator task
+
 
 
 
