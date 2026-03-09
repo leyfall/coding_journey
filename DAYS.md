@@ -650,6 +650,7 @@ Day 81 - 07 - 03.08.26
 Day 82 - 08 - 03.09.26
 
 - gday lad! done doing the build a movie ticket booking calculator task
+- Build a Travel Weather Planner (time to test what I learned)
 
 
 
