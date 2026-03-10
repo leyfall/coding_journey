@@ -654,6 +654,15 @@ Day 82 - 08 - 03.09.26
 - okay so far its good,maybe
 - exam done btw (did not do good but anyway)
 
+Day 83 - 01 - 03.10.26
+
+- I thought nabuhat nako ni bruh. wala diay na busy kay niadto og Abreeza to see PP and Brylle dance.
+
+Day 84 - 02 - 03.11.26
+
+- Reviewing in python.
+
+
 
 
 
