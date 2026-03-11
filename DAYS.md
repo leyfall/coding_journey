@@ -661,6 +661,7 @@ Day 83 - 01 - 03.10.26
 Day 84 - 02 - 03.11.26
 
 - Reviewing in python.
+- HTML Fundamentals 10mins
 
 
 
