@@ -663,6 +663,11 @@ Day 84 - 02 - 03.11.26
 - Reviewing in python.
 - HTML Fundamentals 10mins
 
+Day 85 - 03 - 03.11.26
+
+- Done finally one act
+- rest.
+
 
 
 
