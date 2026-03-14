@@ -674,6 +674,9 @@ Day 86 - 04 - 03.13.26
 
 Day 87 - 05 - 03.14.26
 
+- Html fundamentals 15mins
+- Done doing the building a bookstore page
+
 
 
 
