@@ -672,6 +672,8 @@ Day 86 - 04 - 03.13.26
 - HTML FUNDAMENTALS 10mins
 - Building a bookstore page
 
+Day 87 - 05 - 03.14.26
+
 
 
 
