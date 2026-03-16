@@ -677,6 +677,11 @@ Day 87 - 05 - 03.14.26
 - Html fundamentals 15mins
 - Done doing the building a bookstore page
 
+Day 88 - 06 - 03.15.26
+
+- Rest.
+
+
 
 
 
