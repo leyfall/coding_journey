@@ -684,6 +684,7 @@ Day 88 - 06 - 03.15.26
 Day 89 - 01 - 03.26.26
 
 - 60mins deep work coding.
+- 60 mins in dumping weird stuffs sigh.
 
 
 
