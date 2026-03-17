@@ -687,6 +687,7 @@ Day 89 - 01 - 03.26.26
 - 60 mins in dumping weird stuffs sigh.
 - So peak yesterday that I dont know what stuff is
 
+Day 90 - 02 - 03.17.26
 
 
 
