@@ -685,6 +685,7 @@ Day 89 - 01 - 03.26.26
 
 - 60mins deep work coding.
 - 60 mins in dumping weird stuffs sigh.
+- So peak yesterday that I dont know what stuff is
 
 
 
