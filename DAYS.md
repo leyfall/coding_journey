@@ -695,6 +695,12 @@ Day 90 - 02 - 03.17.26
 - Done doing the lab thing where I learn about HTML fundamentals in audio/video attribute.
 - 30mins learning.
 
+Day 91 - 01 - 03.18.26
+
+- rest and test
+
+Day 92 - 02 - 03.19.26
+
 
 
 
