@@ -704,6 +704,10 @@ Day 92 - 02 - 03.19.26
 - Immense starting for 30mins - HTML
 - Charot char lang na scam siya dai
 
+Day 93 - 03 - 03.20.26
+
+- LEXX GOO
+
 
 
 
