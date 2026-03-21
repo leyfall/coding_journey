@@ -714,19 +714,33 @@ Day 94 - 04 - 03.21.26
 - Sad day
 - Using SVG format
 
-  <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50" cy="50" r="45" stroke="black" stroke-width="4" fill="yellow" />
-  <circle cx="35" cy="40" r="5" fill="black" />
-  <circle cx="65" cy="40" r="5" fill="black" />
-  <path d="M35 65 Q50 80 65 65" stroke="black" stroke-width="4" fill="transparent" />
-</svg>
+         <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+         <circle cx="50" cy="50" r="45" stroke="black" stroke-width="4" fill="yellow" />
+         <circle cx="35" cy="40" r="5" fill="black" />
+         <circle cx="65" cy="40" r="5" fill="black" />
+         <path d="M35 65 Q50 80 65 65" stroke="black" stroke-width="4" fill="transparent" />
+       </svg>
 
 - svg element is the container for the whole drawing
 - circle element is used to make the face and the eyes
 - path element is used to draw the smile.
 - CSS, or cascading stylesheets, is used to add styles to a web page
 
+         <img src="example-img-url" alt="Descriptive text goes here">
+         <iframe width="400" height="200" src="https://www.youtube.com/embed/u43gJJrVa1I?si=BoDW_puFsy8OEr_Z" title="Professional Cloud Architect Certification Course – Pass the Exam! (YouTube video)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  or
 
+         <iframe
+         title="Map of the Royal Observatory, Greenwich, London"
+         width="300"
+         height="200"
+         src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&amp;layer=mapnik">
+       </iframe>
+
+for input 
+
+       <input type="image" alt="Descriptive text goes here" src="example-img-url">
+       
 
 
 
