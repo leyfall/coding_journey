@@ -724,6 +724,7 @@ Day 94 - 04 - 03.21.26
 - svg element is the container for the whole drawing
 - circle element is used to make the face and the eyes
 - path element is used to draw the smile.
+- CSS, or cascading stylesheets, is used to add styles to a web page
 
 
 
