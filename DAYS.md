@@ -740,6 +740,8 @@ Day 94 - 04 - 03.21.26
 for input 
 
        <input type="image" alt="Descriptive text goes here" src="example-img-url">
+- iframe element. This element stands for inline frame.
+- 
        
 
 
