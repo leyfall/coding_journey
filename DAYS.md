@@ -721,6 +721,10 @@ Day 94 - 04 - 03.21.26
   <path d="M35 65 Q50 80 65 65" stroke="black" stroke-width="4" fill="transparent" />
 </svg>
 
+- svg element is the container for the whole drawing
+- circle element is used to make the face and the eyes
+- path element is used to draw the smile.
+
 
 
 
