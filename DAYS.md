@@ -741,8 +741,17 @@ for input
 
        <input type="image" alt="Descriptive text goes here" src="example-img-url">
 - iframe element. This element stands for inline frame.
-- 
-       
+
+         <iframe
+         width="400"
+         height="400"
+         src="https://www.youtube.com/embed/PkZNo7MFNFg?si=-UBVIUNM3csdeiWF"
+         title="Learn JavaScript - Full Course for Beginners (YouTube video)"
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+         referrerpolicy="strict-origin-when-cross-origin"
+         allowfullscreen
+       ></iframe>
+              
 
 
 
