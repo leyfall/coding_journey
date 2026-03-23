@@ -817,6 +817,28 @@ Use relative paths if you want to keep your code cleaner and easier to maintain 
 
 Use relative paths during local testing to ensure links work without an internet connection.
 
+- What Is the Difference Between Slashes, a Single Dot, and Double Dot in Path Syntax?
+  The slash is known as the "path separator"
+  single dot points to the current directory, and two dots point to the parent directory.
+  Double dots, however, are much more common to access files outside of the current working directory.
+
+ex. 
+
+       my-app/
+       ├─ public/
+       │  ├─ favicon.ico
+       │  ├─ index.html
+       ├─ src/
+       │  ├─ index.css
+       │  ├─ index.js
+
+Absolute path = starts with slash /
+A single dot points to the current directory.
+Double dot is option is a relative path to the parent directory
+
+- Basic HTML Review
+- I'm reviewing whether I understand basic is lol.
+
   
   
 
