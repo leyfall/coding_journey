@@ -774,14 +774,19 @@ Objective: Fulfill the user stories below and get all the tests to pass to compl
 
 - Done Build a Video Compilation Page
 - What Are the Different Target Attribute Types?
-         - target = attribute tells the browser where to open the URL for the anchor element.
-         ex. <a href="https://freecodecamp.org" target="_blank">Visit freeCodeCamp</a>
-         - four important possible values for this attribute
-                - _self, which is the default value. This opens the link in the current browsing context. In most cases, this will be the current tab or window.
-                - _blank, which opens the link in a new browsing context. Typically, this will open in a new tab. But some users might configure their browsers to open a new window 
-                - _parent, which opens the link in the parent of the current context. For example, if your website has an iframe, a _parent value in that iframe would open in your website's tab/window, not in the embedded frame.
-                - _top, which opens the link in the top-most browsing context - think "the parent of the parent". This is similar to _parent, but the link will always open in the full browser tab/window, even for nested embedded frames.
-                - There is a fifth value, called _unfencedTop, which is currently used for the experimental FencedFrame API. At the time of this lesson, you probably won't have a reason to use this one yet.
+ target = attribute tells the browser where to open the URL for the anchor element.
+  ex. <a href="https://freecodecamp.org" target="_blank">Visit freeCodeCamp</a>
+    four important possible values for this attribute
+   _self, which is the default value. This opens the link in the current browsing context. In most cases, this will be the current tab or window.
+   _blank, which opens the link in a new browsing context. Typically, this will open in a new tab. But some users might configure their browsers to open a new window 
+   _parent, which opens the link in the parent of the current context. For example, if your website has an iframe, a _parent value in that iframe would open in your website's tab/window, not in the embedded frame.
+   _top, which opens the link in the top-most browsing context - think "the parent of the parent". This is similar to _parent, but the link will always open in the full browser tab/window, even for nested embedded frames.
+  
+   There is a fifth value, called _unfencedTop, which is currently used for the experimental FencedFrame API. At the time of this lesson, you probably won't have a reason to use this one yet.
+
+- What Is the Difference Between Absolute and Relative Paths?
+ path is a string that specifies the location of a file or directory in a file system. In web development, paths let developers link to resources like images, stylesheets, scripts, and other web pages.
+
   
   
 
