@@ -772,6 +772,8 @@ Build an app that is functionally similar to this example project. Try not to co
 
 Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
 
+- Done Build a Video Compilation Page
+  
 
 
 
