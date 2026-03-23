@@ -787,6 +787,36 @@ Objective: Fulfill the user stories below and get all the tests to pass to compl
 - What Is the Difference Between Absolute and Relative Paths?
  path is a string that specifies the location of a file or directory in a file system. In web development, paths let developers link to resources like images, stylesheets, scripts, and other web pages.
 
+absolute path is a complete link to a resource. It starts from the root directory, includes every other directory, and finally the filename and extension.
+"root directory" refers to the top-level directory or folder in a hierarchy.
+
+ex. <p>
+  Read more on the
+  <a
+    href="/Users/user/Desktop/fCC/script-code/absolute-vs-relative-paths/pages/about.html"
+    >About Page</a
+    >
+</p>
+
+An absolute URL is a complete address used to access a resource. It includes the protocol - which could be http, https, and file and the domain name if the resource is on the web. Here's an example of an absolute URL that links to the freeCodeCamp logo:
+
+<a href="https://design-style-guide.freecodecamp.org/img/fcc_secondary_small.svg">
+  View fCC Logo
+</a>
+
+Rules to follow:
+
+
+Use absolute paths when you want to reference a resource from a fixed location, such as from the root of your site or a known directory on your local machine.
+
+Use absolute URL when linking to a resource hosted on an external website.
+
+Use relative paths when linking to resources within the same website.
+
+Use relative paths if you want to keep your code cleaner and easier to maintain during development.
+
+Use relative paths during local testing to ensure links work without an internet connection.
+
   
   
 
