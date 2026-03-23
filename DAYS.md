@@ -756,6 +756,13 @@ Day 95 - 05 - 03.22.26
 
 - 5mins
 - Soo we go back.
+- Build a Video Compilation Page
+
+Build an app that is functionally similar to this example project. Try not to copy the example project, give it your own personal style.
+
+Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
+
+
 
 
 
