@@ -839,8 +839,10 @@ Double dot is option is a relative path to the parent directory
 - Basic HTML Review
 - I'm reviewing whether I understand basic is lol.
 
-  
-  
+
+Day 96 - 07 - 03.24.26
+
+- 
 
 
 
