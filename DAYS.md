@@ -851,6 +851,7 @@ Day 97 - 01 - 03.25.26
 Day 98 - 02 - 03.26.26
 
 - HTML IM GONNA EAT YOU UP in 60mins.
+- HTML boilerplate: This is a boilerplate that includes the basic structure and essential elements every HTML document needs.
 
 
 
