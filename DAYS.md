@@ -864,7 +864,8 @@ Day 98 - 02 - 03.26.26
            <!--Headings, paragraphs, images, etc. go inside here-->
          </body>
        </html>
-- 
+- Done with the Basic HTML I passed it (18/20)
+- We will start SEMANTIC HTML
 
 
 
