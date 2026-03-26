@@ -853,6 +853,19 @@ Day 98 - 02 - 03.26.26
 - HTML IM GONNA EAT YOU UP in 60mins.
 - HTML boilerplate: This is a boilerplate that includes the basic structure and essential elements every HTML document needs.
 
+       <!DOCTYPE html>
+       <html lang="en">
+         <head>
+           <meta charset="utf-8" />
+           <title>freeCodeCamp</title>
+           <link rel="stylesheet" href="./styles.css" />
+         </head>
+         <body>
+           <!--Headings, paragraphs, images, etc. go inside here-->
+         </body>
+       </html>
+- 
+
 
 
 
