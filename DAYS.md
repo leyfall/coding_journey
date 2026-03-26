@@ -867,6 +867,14 @@ Day 98 - 02 - 03.26.26
 - Done with the Basic HTML I passed it (18/20)
 - We will start SEMANTIC HTML
 
+  examples of semantic HTML elements include:
+       
+           The header element for defining the header of the document, or section.
+           The navigation section element, nav, for sections with navigation links.
+           The section element for grouping related information.
+           The figure element for illustrations and diagrams.
+- 
+
 
 
 
