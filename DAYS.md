@@ -877,6 +877,7 @@ Day 98 - 02 - 03.26.26
 Day 99 - 03 - 03.27.26
 
 - 10mins semantic html
+- build a list using dl, dt, and dd.
 
 
 
