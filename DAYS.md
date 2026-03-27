@@ -878,6 +878,7 @@ Day 99 - 03 - 03.27.26
 
 - 10mins semantic html
 - build a list using dl, dt, and dd.
+- done reading the difference of using stuffs in datetime, blockqoute, address, cite and others.
 
 
 
