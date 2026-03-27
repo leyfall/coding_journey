@@ -873,7 +873,8 @@ Day 98 - 02 - 03.26.26
            The navigation section element, nav, for sections with navigation links.
            The section element for grouping related information.
            The figure element for illustrations and diagrams.
-- 
+
+Day 99 - 03 - 03.27.26
 
 
 
