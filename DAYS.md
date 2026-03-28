@@ -881,6 +881,9 @@ Day 99 - 03 - 03.27.26
 - done reading the difference of using stuffs in datetime, blockqoute, address, cite and others.
 - Plus 5mins practice and reading.
 
+Day 100 - 04 - 03.28.26
+
+- Happy 100days folks, it might not be the best out there, but the fact that I persevere is enough.
 
 
 
