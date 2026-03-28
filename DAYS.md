@@ -888,6 +888,7 @@ Day 100 - 04 - 03.28.26
   TOPICS:
        - How Do You Display Mathematical Equations and Chemical Formulas in HTML?
        - How Do You Represent Computer Code in HTML?
+       - What Are the U, S, and Ruby Elements Used For, and How Do They Work?
 
 - Done understanding how the blockquote,cite and other to used for.
 - 
