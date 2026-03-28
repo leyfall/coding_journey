@@ -884,8 +884,12 @@ Day 99 - 03 - 03.27.26
 Day 100 - 04 - 03.28.26
 
 - Happy 100days folks, it might not be the best out there, but the fact that I persevere is enough.
-- How Do You Display Mathematical Equations and Chemical Formulas in HTML?
+  TOPICS:
+       - How Do You Display Mathematical Equations and Chemical Formulas in HTML?
+       - How Do You Represent Computer Code in HTML?
+
 - Done understanding how the blockquote,cite and other to used for.
+- 
 
 
 
