@@ -895,6 +895,7 @@ Day 100 - 04 - 03.28.26
 Day 101 - 05 - 03.29.26
 
 - REST DAY gonna go back!!!
+- church, palm sunday
 
 
 
