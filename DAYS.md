@@ -891,7 +891,10 @@ Day 100 - 04 - 03.28.26
        - What Are the U, S, and Ruby Elements Used For, and How Do They Work?
 
 - Done understanding how the blockquote,cite and other to used for.
-- 
+
+Day 101 - 05 - 03.29.26
+
+- REST DAY gonna go back!!!
 
 
 
