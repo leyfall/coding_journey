@@ -918,10 +918,10 @@ Objective: Fulfill the user stories below and get all the tests to pass to compl
     Semantic HTML elements: Elements that hold meaning and structure. Ex. header, nav, figure.
 - Reviewing and first quiz take got 15/20 and now for the second quiz tak I got 20/20 very good
 
-<strong>NEW TOPIC</strong>
-
+**NEW TOPIC**
 - How Do Forms, Labels, and Inputs Work in HTML?
 - What Are the Different Types of Buttons, and When Should You Use Them?
+- 
 
 
 
