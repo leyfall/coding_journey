@@ -921,6 +921,7 @@ Objective: Fulfill the user stories below and get all the tests to pass to compl
 <strong>NEW TOPIC</strong>
 
 - How Do Forms, Labels, and Inputs Work in HTML?
+- What Are the Different Types of Buttons, and When Should You Use Them?
 
 
 
