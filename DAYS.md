@@ -901,6 +901,13 @@ Day 102 - 06 - 03.30.26
 
 - April is coming
 - Done the build cat page with addreess innit simple sematic functions.
+- Build an Event Hub
+
+Build an app that is functionally similar to this example project. Try not to copy the example project, give it your own personal style.
+
+In this lab you will utilize the semantic HTML elements to create the structure of a web page. You'll add content and images to make it look like a real event hub.
+
+Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
 
 
 
