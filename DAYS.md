@@ -916,7 +916,7 @@ Objective: Fulfill the user stories below and get all the tests to pass to compl
     Structural hierarchy for heading elements: It is important to use the correct heading element to maintain the structural hierarchy of the content. The h1 element is the highest level of heading and the h6 element is the lowest level of heading.
     Presentational HTML elements: Elements that define the appearance of content. Ex. the deprecated center, big and font elements.
     Semantic HTML elements: Elements that hold meaning and structure. Ex. header, nav, figure.
-
+- Reviewing and first quiz take got 15/20 and now for the second quiz tak I got 20/20 very good
 
 
 
