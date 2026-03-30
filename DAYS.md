@@ -910,7 +910,7 @@ In this lab you will utilize the semantic HTML elements to create the structure 
 Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
 
 - WISH FULFILLED FEELASS.
-- 
+- Semantic HTML Review
 
 
 
