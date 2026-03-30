@@ -900,6 +900,7 @@ Day 101 - 05 - 03.29.26
 Day 102 - 06 - 03.30.26
 
 - April is coming
+- Done the build cat page with addreess innit simple sematic functions.
 
 
 
