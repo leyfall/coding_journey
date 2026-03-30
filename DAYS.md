@@ -934,7 +934,7 @@ input elements are void elements, which means they cannot have child nodes, such
 
 - What Is Client-Side Form Validation in HTML Forms, and What Are Some Examples?
 - What Are the Different Form States, and Why Are They Important?
-
+- 60mins deep work on HTML basics. Small thing yes
 
 
 
