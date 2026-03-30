@@ -921,7 +921,20 @@ Objective: Fulfill the user stories below and get all the tests to pass to compl
 **NEW TOPIC**
 - How Do Forms, Labels, and Inputs Work in HTML?
 - What Are the Different Types of Buttons, and When Should You Use Them?
-- 
+         <form action="">
+  <label for="email">Email address:</label>
+  <input type="email" id="email" name="email" />
+  <button type="submit">Submit form</button>
+</form>
+
+<input class="start-btn" type="button" value="Start Game" />
+<script src="index.js"></script>
+
+input elements are void elements, which means they cannot have child nodes, such as text, and can only have a start tag. On the other hand, the button element offers more flexibility because you can nest text, images, and icons inside it.
+
+- What Is Client-Side Form Validation in HTML Forms, and What Are Some Examples?
+- What Are the Different Form States, and Why Are They Important?
+
 
 
 
