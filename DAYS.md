@@ -936,5 +936,7 @@ input elements are void elements, which means they cannot have child nodes, such
 - What Are the Different Form States, and Why Are They Important?
 - 60mins deep work on HTML basics. Small thing yes
 
+Day 103 - 07 - 03.31.26
+
 
 
