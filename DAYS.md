@@ -946,8 +946,10 @@ Day 104 - 01 - 04.01.26
 
 - So yeah gotta do some 2 hour deep work of study and coding so I can be happy.
 - Just done brain rotting which is insane.
+- 
 
 Again The days will be back uhmm so for thursay, friday, and saturday all about spiritual works so no amount of world is allowed.
 
+- Initiating a Option B: The "Responsive Pricing Table." Every SaaS (Software as a Service) company needs one of these. To sell 
 
 
