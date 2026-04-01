@@ -942,5 +942,10 @@ Day 103 - 07 - 03.31.26
 
   For the next thurday, friday, and saturday I wont be around so gonna stop the strak for a bit Sorry but will be back.
 
+Day 104 - 01 - 04.01.26
+
+- So yeah gotta do some 2 hour deep work of study and coding so I can be happy.
+- Just done brain rotting which is insane.
+
 
 
