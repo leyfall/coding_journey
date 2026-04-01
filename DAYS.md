@@ -940,5 +940,7 @@ Day 103 - 07 - 03.31.26
 
 - FORGOT TO BUT YEAH GOT FORGOTTEN? recognition today tip of the day dead
 
+  For the next thurday, friday, and saturday I wont be around so gonna stop the strak for a bit Sorry but will be back.
+
 
 
