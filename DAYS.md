@@ -955,5 +955,6 @@ Again The days will be back uhmm so for thursay, friday, and saturday all about 
 Day 105 - 01 - 04.05.26
 
 - Just got back from the spiritual world, lets go grind some for the mortal worlds.
+- coding and AI
 
 
