@@ -950,6 +950,10 @@ Day 104 - 01 - 04.01.26
 
 Again The days will be back uhmm so for thursay, friday, and saturday all about spiritual works so no amount of world is allowed.
 
-- Initiating a Option B: The "Responsive Pricing Table." Every SaaS (Software as a Service) company needs one of these. To sell 
+- Initiating a Option B: The "Responsive Pricing Table." Every SaaS (Software as a Service) company needs one of these. To sell
+
+Day 105 - 01 - 04.05.26
+
+- Just got back from the spiritual world, lets go grind some for the mortal worlds.
 
 
