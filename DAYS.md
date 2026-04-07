@@ -960,5 +960,7 @@ Day 105 - 01 - 04.05.26
 Day 106 - 02 - 04.06.26
 
 - IMMMMMMM WHAT IDONT KNOW
+- seriously
+- Im confuseeeeeeee
 
 
