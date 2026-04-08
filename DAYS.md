@@ -976,4 +976,5 @@ Day 108 - 04 - 04.08.26
 - I havent figure it out but wiill
 - sometimees I wonder why I wonder
 - Finding my own IKIGAI
+- BRUHHHHHHHHHHHHHHHHHHHHHHHH my commits did not contribute thats weird how whats the problem.
 
