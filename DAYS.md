@@ -972,9 +972,7 @@ Day 107 - 03 - 04.07.26
 
 Day 108 - 04 - 04.08.26
 
-- Happy to have small progress in a non linear learning in life
-- I havent figure it out but wiill
-- sometimees I wonder why I wonder
-- Finding my own IKIGAI
+- Happy to have small progress in a non linear learning in life I havent figure it out but wiill
+  sometimees I wonder why I wonder Finding my own IKIGAI
 - BRUHHHHHHHHHHHHHHHHHHHHHHHH my commits did not contribute thats weird how whats the problem.
 
