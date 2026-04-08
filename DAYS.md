@@ -968,5 +968,8 @@ Day 107 - 03 - 04.07.26
 - No amount of confusing stuffssss I embarked right now.
 - maybe have to go back to learn things???
 - Okay i get it now
-- 
+- yeah
+
+Day 108 - 04 - 04.08.26
+
 
