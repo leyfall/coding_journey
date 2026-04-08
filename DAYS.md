@@ -988,3 +988,14 @@ and
 <label for="name">Name:</label>
 <input type="text" id="name" name="name">
 
+- AI
+- What is AI inference?
+
+In the field of artificial intelligence (AI), inference is the process that a trained machine learning model* uses to draw conclusions from brand-new data. An AI model capable of making inferences can do so without examples of the desired result. In other words, inference is an AI model in action.
+
+An example of AI inference would be a self-driving car that is capable of recognizing a stop sign, even on a road it has never driven on before. The process of identifying this stop sign in a new context is inference.
+
+Another example: A machine learning model trained on the past performance of professional sports players may be able to make predictions about the future performance of a given sports player before they are signed to a contract. Such a prediction is an inference.
+
+*Machine learning is a type of AI.
+
