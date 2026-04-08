@@ -975,6 +975,7 @@ Day 108 - 04 - 04.08.26
 - Happy to have small progress in a non linear learning in life I havent figure it out but wiill
   sometimees I wonder why I wonder Finding my own IKIGAI
 - BRUHHHHHHHHHHHHHHHHHHHHHHHH my commits did not contribute thats weird how whats the problem.
+  I need more progress...do not complain and do not explain
   <form action="/example-url">
   <fieldset>
     <legend>Personal Information</legend>
@@ -982,7 +983,8 @@ Day 108 - 04 - 04.08.26
   </fieldset>
 </form>
 
-- I need more progress...do not complain and do not explain.
-- <label for="name">Name:</label>
+and
+
+<label for="name">Name:</label>
 <input type="text" id="name" name="name">
 
