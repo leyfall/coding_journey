@@ -1012,3 +1012,15 @@ Example Code
 
 The min and max attributes are used to set the minimum and maximum values that can be entered in the input field.
 
+- If you want users to select one option from a list of options, you can use a set of radio buttons.
+
+Here is an example of two radio buttons:
+Example Code
+
+<input type="radio" id="yes" name="first-time">
+<label for="yes">Yes</label>
+<input type="radio" id="no" name="first-time">
+<label for="no">No</label>
+
+In this example, the radio buttons are grouped together by using the same name attribute value. This means that only one radio button can be selected at a time.
+
