@@ -1023,4 +1023,18 @@ Example Code
 <label for="no">No</label>
 
 In this example, the radio buttons are grouped together by using the same name attribute value. This means that only one radio button can be selected at a time.
+- When you want a user to select multiple options from a list, you can use checkboxes.
+
+Here is an example of how to work with checkboxes dealing with food options:
+Example Code
+
+<fieldset>
+  <legend>Food Options</legend>
+  <input type="checkbox" id="pizza" name="food" value="pizza">
+  <label for="pizza">Pizza</label>
+  <input type="checkbox" id="burger" name="food" value="burger">
+  <label for="burger">Burger</label>
+</fieldset>
+
+The value attribute is used to specify the value that will be sent to the server when the form is submitted.
 
