@@ -999,3 +999,7 @@ Another example: A machine learning model trained on the past performance of pro
 
 *Machine learning is a type of AI.
 
+Day 109 - 05 - 04.09.26
+
+- Working on steps in freecodecamp for 10mins
+
