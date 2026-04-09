@@ -1003,5 +1003,12 @@ Day 109 - 05 - 04.09.26
 
 - Working on steps in freecodecamp for 10mins
 - input elements can have a size attribute. This attribute defines the number of characters that should be visible as the user types into the input. The value of size should be a non-negative integer greater than zero. If size is not specified, or is specified with an invalid value, the input will have the default width set by the browser.
-- 
+- The number input is used to create a numeric input field.
+
+Here is an example of a number input field:
+Example Code
+
+<input type="number" id="age" name="age" min="18" max="100">
+
+The min and max attributes are used to set the minimum and maximum values that can be entered in the input field.
 
