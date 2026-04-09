@@ -1002,4 +1002,6 @@ Another example: A machine learning model trained on the past performance of pro
 Day 109 - 05 - 04.09.26
 
 - Working on steps in freecodecamp for 10mins
+- input elements can have a size attribute. This attribute defines the number of characters that should be visible as the user types into the input. The value of size should be a non-negative integer greater than zero. If size is not specified, or is specified with an invalid value, the input will have the default width set by the browser.
+- 
 
