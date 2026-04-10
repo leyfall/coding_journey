@@ -1064,3 +1064,6 @@ Example Code
 
 <textarea id="comments" name="comments"
 
+- What Are HTML Tables Used For, and What Should They Not Be Used For?
+         - HTML tables aren't used as much these days as they used to be. But, as a front-end developer, you should still be familiar with them. Tables are one of the earliest ways devs had for displaying data in a browser way back in the 1990s.
+
