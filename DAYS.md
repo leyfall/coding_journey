@@ -1038,3 +1038,20 @@ Example Code
 
 The value attribute is used to specify the value that will be sent to the server when the form is submitted.
 
+Day 110 - 05 - 04.10.26
+
+- When you want users to make selections from a dropdown menu, you can use the select and option elements.
+
+Here is an example of using the select and option elements to create a dropdown for different cities:
+Example Code
+
+<label for="city">Choose a City: </label>
+<select id="city" name="city">
+  <option value="new-york">New York</option>
+  <option value="los-angeles">Los Angeles</option>
+  <option value="chicago">Chicago</option>
+  <option value="miami">Miami</option>
+</select>
+
+Still testing the waters of html for fun I guess.
+
