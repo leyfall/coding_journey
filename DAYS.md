@@ -1055,3 +1055,12 @@ Example Code
 
 Still testing the waters of html for fun I guess.
 
+- If you want users to have more space to write their comments, you can use a textarea element.
+
+The textarea element is a multi-line text input control that allows users to enter text that is longer than a single line. It can be used to create a comment box, a message input, or other text input that requires multiple lines.
+
+Here's an example of a textarea element:
+Example Code
+
+<textarea id="comments" name="comments"
+
