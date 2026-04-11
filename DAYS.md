@@ -1046,5 +1046,7 @@ Day 110 - 04.10.26
 
 Day 111 - 04.11.26
 
+- Ayoooooooooo?? what the the words I put here dissapeared.
+
 - Starting to pitch something. Lets focus to it.
 
