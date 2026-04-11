@@ -1040,3 +1040,7 @@ The value attribute is used to specify the value that will be sent to the server
 
 Jusus I did something out here yesterdayyyyyyyyyyyyyyyyyyyyyy whyyyyyyy????
 
+Day 110 - 04.10.26
+
+- Did it yeah I did bruh.
+
