@@ -1065,3 +1065,4 @@ Here is an example of using the colspan attribute for a sports table:
 Day 112 - 04.12.26
 
 - Do it ugly or not
+- How to Use the DOM Inspector and DevTools to Debug and Build Your Projects
