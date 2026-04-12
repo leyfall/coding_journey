@@ -1061,3 +1061,7 @@ The colspan attribute specifies the number of columns a cell should span.
 Here is an example of using the colspan attribute for a sports table:
 
 - What Is an HTML Validator, and How Can It Help You Debug Your Code?
+
+Day 112 - 04.12.26
+
+- Do it ugly or not
