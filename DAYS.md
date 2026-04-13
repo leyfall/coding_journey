@@ -1070,5 +1070,5 @@ Day 112 - 04.12.26
 
 Day 113 - 04.13.26
 
-- 
+- Decency saying, I'm working on small progress about copywriting,yeah maybe.
 
