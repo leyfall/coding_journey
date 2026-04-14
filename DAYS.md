@@ -1072,3 +1072,7 @@ Day 113 - 04.13.26
 
 - Decency saying, I'm working on small progress about copywriting,yeah maybe.
 
+Day 114 - 04.14.26
+
+- Moping around dont know what....ARGHH
+
