@@ -1078,4 +1078,4 @@ Day 114 - 04.14.26
 - Finally done with the Basic, Semantic, Forms and Tables HTML bound to Accessbility!!!
 - 5 Contribution is enough right??
 - Retrieval-Augmented Generation (RAG) is an AI approach that combines information retrieval with language generation to create more accurate, contextually relevant outputs. 
-
+- Machine learning is the subset of artificial intelligence (AI) focused on algorithms that can “learn” the patterns of training data and, subsequently, make accurate inferences about new data.
