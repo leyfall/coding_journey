@@ -1075,4 +1075,5 @@ Day 113 - 04.13.26
 Day 114 - 04.14.26
 
 - Moping around dont know what....ARGHH
+- Finally done with the Basic, Semantic, Forms and Tables HTML bound to Accessbility!!!
 
