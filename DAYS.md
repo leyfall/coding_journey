@@ -1076,4 +1076,6 @@ Day 114 - 04.14.26
 
 - Moping around dont know what....ARGHH
 - Finally done with the Basic, Semantic, Forms and Tables HTML bound to Accessbility!!!
+- 5 Contribution is enough right??
+- Retrieval-Augmented Generation (RAG) is an AI approach that combines information retrieval with language generation to create more accurate, contextually relevant outputs. 
 
