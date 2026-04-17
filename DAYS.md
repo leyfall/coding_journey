@@ -1087,3 +1087,4 @@ Day 115 - 04.17.26
 - Done done, Accessibility involves creating products and services that everyone can use.hour
 - 6 hours pass and hopefully this works what?
 - Accessibility in html helps does?
+- Done with the stupid theoryyyyyyyy lol
