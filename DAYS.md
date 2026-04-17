@@ -1083,3 +1083,5 @@ Day 114 - 04.14.26
 Day 115 - 04.17.26
 
 - Lmao I did not do for like 2 days? what I skipped?
+- Keep it up day to day life, but learn to code thats it/
+- Done done
