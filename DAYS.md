@@ -1089,3 +1089,7 @@ Day 115 - 04.17.26
 - Accessibility in html helps does?
 - Done with the stupid theoryyyyyyyy lol
 - 10mins + 10mins = 20mins bare minimum lol
+
+Day 116 - 04.18.26
+
+- 
