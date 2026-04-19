@@ -1092,4 +1092,4 @@ Day 115 - 04.17.26
 
 Day 116 - 04.18.26
 
-- 
+- I'm on starting point python again, but with more specific roadmap sooo...
