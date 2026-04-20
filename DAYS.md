@@ -1098,3 +1098,7 @@ Day 117 - 04.19.26
 
 - Retrieval is jeopardize the asylum of substance witin the limits of the rational congitive os tyle of the machine.
 - Never forgettiii...
+
+Day 118 - 04.20.26
+
+- no python, code yes be back tomorrow yepeyyyyy I love this day... (read my entry in journal)
