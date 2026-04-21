@@ -1111,4 +1111,6 @@ Day 119 - 04.21.26
 
 - MY GOD THE AI DIGITAL PRODCUCT IS SOOO CLOSE...
 - LOCK IN 10mins
-- 
+- Python in David talk about, parameters, sting, sep and other documentation of what python shoudl look like in you doing it.
+
+  
