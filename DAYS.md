@@ -1118,4 +1118,5 @@ Day 120 - 04.22.26
 
 - OMG MY FAVVVV HYUNJUS NUMBERRRR GOOD MORNING FELLAS
 - LMAO okay lets say I dont things.
-  
+- Python 20mins
+
