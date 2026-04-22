@@ -1120,4 +1120,5 @@ Day 120 - 04.22.26
 - LMAO okay lets say I dont things.
 - Python 20mins
 - HTML 10mins
+- Just step on things I dont think I step too much fella...
 
