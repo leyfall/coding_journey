@@ -1127,6 +1127,6 @@ Day 121 - 04.24.26
 
 - Lol I skipped a day 23 uhm I did well yes just in copywriting but mostly being lazy and not taking actions on coding journey which obviously sucks.
 - Python 10mins
-- 
+- You dont have to pretend you're okay but do it in a way you go all out.
 
 
