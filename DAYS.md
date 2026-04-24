@@ -1129,4 +1129,8 @@ Day 121 - 04.24.26
 - Python 10mins
 - You dont have to pretend you're okay but do it in a way you go all out.
 
+Day 122 - 04.25.26
+
+
+
 
