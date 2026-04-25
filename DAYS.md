@@ -1134,6 +1134,7 @@ Day 122 - 04.25.26
 - Python phone 15mins
 - HTML 15mins
 - Reading and writing stuffs in code in python.
+- Writing madlibs
 
 
 
