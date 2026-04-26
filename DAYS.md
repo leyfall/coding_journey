@@ -1138,7 +1138,8 @@ Day 122 - 04.25.26
 
 Day 123 - 04.26.6
 
-- 10 mins in python
+- 10 mins in python in phone will add again, just got dig dipper in python more. Fundamentals
+- 
 
 
 
