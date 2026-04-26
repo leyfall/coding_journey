@@ -1140,6 +1140,7 @@ Day 123 - 04.26.6
 
 - 10 mins in python in phone will add again, just got dig dipper in python more. Fundamentals
 - 10 mins for the data stucture of comparison using the functions of <= or >= or !> or ==
+- Input - basically to gather a user in a Python program we used this.
 
 
 
