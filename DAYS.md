@@ -1136,6 +1136,8 @@ Day 122 - 04.25.26
 - Reading and writing stuffs in code in python.
 - Writing madlibs
 
+Day 123 - 04.26.6
+
 
 
 
