@@ -1136,13 +1136,17 @@ Day 122 - 04.25.26
 - Reading and writing stuffs in code in python.
 - Writing madlibs
 
-Day 123 - 04.26.6
+Day 123 - 04.26.26
 
 - 10 mins in python in phone will add again, just got dig dipper in python more. Fundamentals
 - 10 mins for the data stucture of comparison using the functions of <= or >= or !> or ==
 - Input - basically to gather a user in a Python program we used this.
 - Its also a type of string, if we want to used it as a no. we need to convert it to an integer or float beforehand.
 - input() function -- reads a line from a input and returns it as a string.
+
+Day 124 - 04.27.26
+
+- I dontttttt wannaaa but yeah i did python yeah maybe???
 
 
 
