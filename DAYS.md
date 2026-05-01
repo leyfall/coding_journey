@@ -1155,6 +1155,7 @@ Day 125 - 04.29.26
 Day 126 - 05.01.26
 
 - Freshly start new month! go may
+- LETS GOOOOOOOOOOOO I done the DONATION KIND OF THING IN HTML AND IM CRYINGGG HUHUHUHUH finallyyy
 
 
 
