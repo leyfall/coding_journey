@@ -1157,6 +1157,7 @@ Day 126 - 05.01.26
 - Freshly start new month! go may
 - LETS GOOOOOOOOOOOO I done the DONATION KIND OF THING IN HTML AND IM CRYINGGG HUHUHUHUH finallyyy
 - Introduction to ARIA?? uhhhhhhhhhhhhhhh
+- Done building a audio controller where i use ARIA huhuh
 
 
 
