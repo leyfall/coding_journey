@@ -1159,6 +1159,10 @@ Day 126 - 05.01.26
 - Introduction to ARIA?? uhhhhhhhhhhhhhhh
 - Done building a audio controller where i use ARIA huhuh
 
+Day 127 - 05.03.26
+
+- Ohh dear what did i do yesterday???? freakin lazy ass
+
 
 
 
