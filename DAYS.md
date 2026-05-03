@@ -1162,6 +1162,7 @@ Day 126 - 05.01.26
 Day 127 - 05.03.26
 
 - Ohh dear what did i do yesterday???? freakin lazy ass
+- Good work 40mins on coding HTML in freecodecamp
 
 
 
