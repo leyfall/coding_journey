@@ -1164,6 +1164,10 @@ Day 127 - 05.03.26
 - Ohh dear what did i do yesterday???? freakin lazy ass
 - Good work 40mins on coding HTML in freecodecamp
 
+Day 128 - 05.04.26
+
+- Coding in coddy -- used up the energy for its python coding learning.
+
 
 
 
