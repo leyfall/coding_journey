@@ -1167,6 +1167,7 @@ Day 127 - 05.03.26
 Day 128 - 05.04.26
 
 - Coding in coddy -- used up the energy for its python coding learning.
+- Done doing the lab thing in freecodecamp for a bit awhile making some simple html structure.
 
 
 
