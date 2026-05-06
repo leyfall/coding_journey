@@ -1174,7 +1174,7 @@ Day 129 - 05.06.26
 - Coding with coddy still in python.
 - Building a multimedia player in freecodecamp goat
 - Done building a multimedia player in freecodecamp
-- 
+- On quest to quizzing the html accessibility reviewer
 
 
 
