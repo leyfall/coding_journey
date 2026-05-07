@@ -1181,7 +1181,7 @@ Day 130 - 05.07.26
 - opening to coddy first
 - I'm on time blocker so I will do something good for once lmao.
 - Done test in the acceciblity reviewe got 18/20 first try
-- 
+- Now time to HTML Review lets see if I know such things lmao
 
 
 
