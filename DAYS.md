@@ -1176,6 +1176,10 @@ Day 129 - 05.06.26
 - Done building a multimedia player in freecodecamp
 - On quest to quizzing the html accessibility reviewer
 
+Day 130 - 05.07.26
+
+- opening to coddy first 
+
 
 
 
