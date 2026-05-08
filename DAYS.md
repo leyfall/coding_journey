@@ -1188,6 +1188,8 @@ Day 131 - 05.08.26
 
 - Operation coding strixx onn
 - coding coddy done.
+- Recapitulating about the computer, making me felt nostalgic because I learn this back in 10th grade and 9th sigh I miss it.
+- 
 
 
 
