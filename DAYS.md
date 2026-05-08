@@ -1184,6 +1184,9 @@ Day 130 - 05.07.26
 - Now time to HTML Review lets see if I know such things lmao
 - Just do some good research non related coding lol, pretty good.
 
+Day 131 - 05.08.26
+
+- Operation coding strixx onn
 
 
 
