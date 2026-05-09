@@ -1194,7 +1194,7 @@ Day 132 - 05.09.26
 
 - Diving on neural deep learning on a maDochine learning.
 - Done coddy coding.
-- 
+- not code related, but i just send a free value type on copy to FREERice lol, for the plot
 
 
 
