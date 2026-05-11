@@ -1197,6 +1197,10 @@ Day 132 - 05.09.26
 - not code related, but i just send a free value type on copy to FREERice lol, for the plot
 - Finally done with the computer basics I got 18/20 for the 2nd time (means 1st only got 14/20 lol)
 
+Day 133 - 05.11.26
+
+- Wala gahapon kay nag Mothers day si Ante
+
 
 
 
