@@ -1200,6 +1200,8 @@ Day 132 - 05.09.26
 Day 133 - 05.11.26
 
 - Wala gahapon kay nag Mothers day si Ante
+- Nag order sa shoppee og books para sa leetcode lol
+- 
 
 
 
