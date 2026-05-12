@@ -1201,7 +1201,7 @@ Day 133 - 05.11.26
 
 - Wala gahapon kay nag Mothers day si Ante
 - Nag order sa shoppee og books para sa leetcode lol
-- 
+- A bit of coddy session, not a bad code day
 
 
 
