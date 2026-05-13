@@ -1209,6 +1209,11 @@ Day 134 - 05.13.26
 - CSS rule is made up of two main parts: a selector and a declaration block.
 - selector is a pattern used in CSS to identify and target specific HTML elements for styling.
 Examples of selectors include type selectors, class selectors, and ID selectors.
+- The curly braces provided in the basic syntax are known as a declaration block. A declaration block applies a set of styles for a given selector, or selectors.
+
+Inside the declaration block, you will have a series of declarations. Each declaration consists of a property and a value.
+
+- 
 
 
 
