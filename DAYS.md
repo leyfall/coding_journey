@@ -1207,6 +1207,8 @@ Day 134 - 05.13.26
 
 - I'm done with HTML right? so I'm out here in CSS
 - CSS rule is made up of two main parts: a selector and a declaration block.
+- selector is a pattern used in CSS to identify and target specific HTML elements for styling.
+Examples of selectors include type selectors, class selectors, and ID selectors.
 
 
 
