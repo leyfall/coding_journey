@@ -1205,6 +1205,7 @@ Day 133 - 05.11.26
 
 Day 134 - 05.13.26
 
+- I'm done with HTML right? so I'm out here in CSS
 - 
 
 
