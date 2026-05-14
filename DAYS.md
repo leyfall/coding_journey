@@ -1218,6 +1218,7 @@ Inside the declaration block, you will have a series of declarations. Each decla
 Day 135 - 05.14.26
 
 - NO WAY I FINISHED THE DESIGN BUSINESS CARD YEPEYYYYY
+- RUN TODAY
 
 
 
