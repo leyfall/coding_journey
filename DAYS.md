@@ -1214,7 +1214,10 @@ Examples of selectors include type selectors, class selectors, and ID selectors.
 Inside the declaration block, you will have a series of declarations. Each declaration consists of a property and a value.
 
 - CSS bark
-- 
+
+Day 135 - 05.14.26
+
+- NO WAY I FINISHED THE DESIGN BUSINESS CARD YEPEYYYYY
 
 
 
