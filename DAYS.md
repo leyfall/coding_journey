@@ -1229,7 +1229,7 @@ The highest specificity is attributed to inline styles, which are applied direct
 
 In this example, the first paragraph will be red while the other p elements will be blue. This is because inline styles have a higher specificity than type selectors like the p selector shown in the styles.css file.
 
-- 
+- done tomorrow again.
 
 
 
