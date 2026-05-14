@@ -1219,6 +1219,17 @@ Day 135 - 05.14.26
 
 - NO WAY I FINISHED THE DESIGN BUSINESS CARD YEPEYYYYY
 - RUN TODAY
+- CSS specificity is a fundamental concept that determines which styles are applied to an element when multiple rules could apply.
+
+Understanding specificity helps developers resolve conflicts between different CSS rules and ensures that the desired styles are consistently applied.
+
+CSS specificity is calculated based on the type of selectors used.
+
+The highest specificity is attributed to inline styles, which are applied directly to an element through the style attribute.
+
+In this example, the first paragraph will be red while the other p elements will be blue. This is because inline styles have a higher specificity than type selectors like the p selector shown in the styles.css file.
+
+- 
 
 
 
