@@ -1234,6 +1234,8 @@ In this example, the first paragraph will be red while the other p elements will
 Day 136 - 05.15.26
 
 - Dads bday today...
+- What Is the Universal Selector, and What Is Its Specificity?
+- 
 
 
 
