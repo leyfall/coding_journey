@@ -1235,7 +1235,7 @@ Day 136 - 05.15.26
 
 - Dads bday today...
 - What Is the Universal Selector, and What Is Its Specificity?
-- 
+- not good
 
 
 
