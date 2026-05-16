@@ -1237,6 +1237,11 @@ Day 136 - 05.15.26
 - What Is the Universal Selector, and What Is Its Specificity?
 - not good
 
+Day 137 - 05.16.26
+
+- Spilling money or spend money lmao
+
+
 
 
 
