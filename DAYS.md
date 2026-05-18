@@ -1246,6 +1246,7 @@ Day 138 - 05.18.26
 
 - Sunday May 17 is rest more like dying stead, all along I just sleep and taking rest.
 - Css Review
+- Got the book of grokking and cci books study...
 - 
 
 
