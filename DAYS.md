@@ -1242,6 +1242,10 @@ Day 137 - 05.16.26
 - Spilling money or spend money lmao
 - Ok sleep
 
+Day 138 - 05.18.26
+
+- 
+
 
 
 
