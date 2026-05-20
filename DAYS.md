@@ -1256,6 +1256,8 @@ Day 139 - 05.19.26
 Day 140 - 05.20.26
 
 - Opening life frustration.
+- done css with the help of AI more like lazy kind lmao.
+- 
 
 
 
