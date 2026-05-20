@@ -1257,7 +1257,7 @@ Day 140 - 05.20.26
 
 - Opening life frustration.
 - done css with the help of AI more like lazy kind lmao.
-- 
+- copywriting + coding what it is???
 
 
 
