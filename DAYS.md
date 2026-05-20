@@ -1253,6 +1253,10 @@ Day 139 - 05.19.26
 - Nows the time to actually focus on learning python since I already know html and css as language.
 - The algorithm grokking is also good
 
+Day 140 - 05.20.26
+
+- Opening life frustration.
+
 
 
 
