@@ -1261,7 +1261,7 @@ Day 140 - 05.20.26
 
 Day 141 - 05.22.26
 
-- 
+- making a card html to maam czar since its her bday yeah (not good)
 
 
 
