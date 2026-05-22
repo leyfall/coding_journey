@@ -1316,6 +1316,36 @@ You can use comments to explain your code, leave reminders for yourself, or clar
 
 However, you shouldn't use comments to explain what your variable names mean. Instead, the names you choose for your variables should be descriptive and communicate what they're for, and follow the other naming rules mentioned earlier to prevent syntax errors.
 
+- my_integer_var = 10
+print(type(my_integer_var))  # <class 'int'>
+
+my_float_var = 4.50
+print(type(my_float_var))  # <class 'float'>
+
+my_string_var = 'hello'
+print(type(my_string_var))  # <class 'str'>
+
+my_boolean_var = True
+print(type(my_boolean_var))  # <class 'bool'>
+
+my_set_var = {7, 'hello', 8.5}
+print(type(my_set_var))  # <class 'set'>
+
+my_dictionary_var = {'name': 'Alice', 'age': 25}
+print(type(my_dictionary_var))  # <class 'dict'>
+
+my_tuple_var = (7, 'hello', 8.5)
+print(type(my_tuple_var))  # <class 'tuple'>
+
+my_range_var = range(5)
+print(type(my_range_var))  # <class 'range'>
+
+my_list = [22, 'Hello world', 3.14, True]
+print(type(my_list)) # <class 'list'>
+
+my_none_var = None
+print(type(my_none_var))  # <class 'NoneType'>
+
 
 
 
