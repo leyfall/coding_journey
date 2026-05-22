@@ -1346,6 +1346,7 @@ print(type(my_list)) # <class 'list'>
 my_none_var = None
 print(type(my_none_var))  # <class 'NoneType'>
 
+- uhm that I do not know anymore
 
 
 
