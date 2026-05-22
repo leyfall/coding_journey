@@ -1259,6 +1259,9 @@ Day 140 - 05.20.26
 - done css with the help of AI more like lazy kind lmao.
 - copywriting + coding what it is???
 
+Day 141 - 05.22.26
+
+- 
 
 
 
