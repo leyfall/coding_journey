@@ -1348,6 +1348,10 @@ print(type(my_none_var))  # <class 'NoneType'>
 
 - uhm that I do not know anymore
 
+Day 142 - 05.23.26
+
+- YOW
+
 
 
 
