@@ -1350,7 +1350,11 @@ print(type(my_none_var))  # <class 'NoneType'>
 
 Day 142 - 05.23.26
 
-- YOW
+- YOW'
+
+Day 143 - 05.25.26
+
+- A drag path 
 
 
 
