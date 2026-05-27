@@ -1358,6 +1358,7 @@ Day 143 - 05.25.26
 
 Day 143 - 05.27.26
 
+- Day 1 on python for 30days
 - 
 
 
