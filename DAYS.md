@@ -1351,15 +1351,23 @@ print(type(my_none_var))  # <class 'NoneType'>
 Day 142 - 05.23.26
 
 - YOW'
+- OH SHUT UP YOU LAZY PEASANT
 
 Day 143 - 05.25.26
 
 - A drag path
+- NOTHING YOU DID NOT DO IT
 
 Day 143 - 05.27.26
 
 - Day 1 on python for 30days
-- 
+- When working with strings, you'll often need to extract a specific portion of a string. This is called slicing.
+
+The syntax is string[start:stop], where:
+
+    start is the index where the slice begins (inclusive).
+    stop is the index where the slice ends (exclusive).
+
 
 
 
