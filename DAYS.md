@@ -1368,6 +1368,9 @@ The syntax is string[start:stop], where:
 
     start is the index where the slice begins (inclusive).
     stop is the index where the slice ends (exclusive).
+Day 144 - 05.28.26
+
+- Day 2 on python for 30days
 
 
 
