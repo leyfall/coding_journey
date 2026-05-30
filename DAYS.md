@@ -1371,6 +1371,7 @@ The syntax is string[start:stop], where:
 Day 144 - 05.28.26
 
 - Day 2 on python for 30days
+- Day 3 on python for 30days
 
 
 
