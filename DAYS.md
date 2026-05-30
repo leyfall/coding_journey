@@ -1383,6 +1383,8 @@ In addition to the above comparison operator Python uses:
 
 Day 145 - 05.30.26
 
+- 30 mins in Python (still bad eh)
+
 
 
 
