@@ -1372,6 +1372,8 @@ Day 144 - 05.28.26
 
 - Day 2 on python for 30days
 - Day 3 on python for 30days
+- print(True)
+print(False)
 
 
 
