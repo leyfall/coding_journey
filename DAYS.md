@@ -1381,6 +1381,10 @@ In addition to the above comparison operator Python uses:
     in: Returns True if the queried list contains a certain item(x in y)
     not in: Returns True if the queried list doesn't have a certain item(x not in y)
 
+Day 145 - 05.30.26
+
+
+
 
 
 
