@@ -1389,6 +1389,7 @@ Day 146 - 06.04.26
 
 - Crazy to think I have been neglecting doing stuff and now Im back to square one after 150 since thats crazy.
 - That for the past 100 days I am indeed the dumbest creature in the world since I did not even do projects or stuffs like that.
+- I was indeed focusing to copywriting and forget that I too loved doing coding things.
 
 
 
