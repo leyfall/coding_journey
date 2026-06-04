@@ -1387,6 +1387,7 @@ Day 145 - 05.30.26
 
 Day 146 - 06.04.26
 
+- Crazy to think I have been neglecting doing stuff and now Im back to square one after 150 since thats crazy.
 - 
 
 
