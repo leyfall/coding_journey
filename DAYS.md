@@ -1385,6 +1385,10 @@ Day 145 - 05.30.26
 
 - 30 mins in Python (still bad eh)
 
+Day 146 - 06.04.26
+
+- 
+
 
 
 
