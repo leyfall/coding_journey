@@ -1391,6 +1391,9 @@ Day 146 - 06.04.26
 - That for the past 100 days I am indeed the dumbest creature in the world since I did not even do projects or stuffs like that.
 - I was indeed focusing to copywriting and forget that I too loved doing coding things.
 - That I too think that hmm maybe this wasn't for me but when i watched Leslie lamport doing computer science still at the age of 85 years old is crazy...
+
+Day 147 - 06.05.26
+
 - 
 
 
