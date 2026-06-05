@@ -1394,7 +1394,7 @@ Day 146 - 06.04.26
 
 Day 147 - 06.05.26
 
-- 
+- starting to zero, but with experience.
 
 
 
