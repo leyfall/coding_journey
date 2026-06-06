@@ -1397,6 +1397,10 @@ Day 147 - 06.05.26
 - starting to zero, but with experience.
 - In theory of styling links and list. (HTML and CSS)
 
+Day 148 - 06.06.26
+
+- 
+
 
 
 
