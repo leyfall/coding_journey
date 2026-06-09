@@ -17,3 +17,5 @@ Day 12 (12.29.25):
 Day 16 (01.02.26):
 
 - Renaming odin-rs_project into coding_journey for better name-- since I will do a coding experience of doing things (THAT I DO NOT UNDERSTAND LOL)
+
+Adding the DAY_2.0 - this is for another stage of life, start again.
