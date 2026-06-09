@@ -1403,7 +1403,7 @@ Day 148 - 06.06.26
 
 Day 149 - 06.08.26
 Day 150 - 06.09.26
-
+- we will restart to zero, done well maybe!
 
 
 
